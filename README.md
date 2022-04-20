@@ -1,4 +1,4 @@
-## Launchiine (WIP)
+## Wii U Menu Plus (WIP)
 
 A simple Wii U Menu replacement, still in early development and not ready for a day to day usage
 
